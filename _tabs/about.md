@@ -11,3 +11,4 @@ Because everyone is more than what a single wordpress website can hold yet I do 
 
 - Virtual Tour
 - Drone Flying
+- Practical Tech for Photographers
