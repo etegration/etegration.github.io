@@ -1,3 +1,9 @@
+---
+title: Welcome
+date: 2022-09-16 22:21:22
+categories: [home]
+tags: [home,about,etegration]
+---
 #Hello
 Hi, welcome. This is a placeholder site for etegration.com
 
