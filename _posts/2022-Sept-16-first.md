@@ -4,7 +4,9 @@ date: 2022-09-16 22:21:22
 categories: [home]
 tags: [home,about,etegration]
 ---
-#Hello
+
+# Hello
+
 Hi, welcome. This is a placeholder site for etegration.com
 
-I am now flying drones full time and enjoying it a lot. Virtual Tour creation is also part of my work. During covid, I re-discovered
+I am now flying drones full time and enjoying it a lot. Virtual Tour creation is also part of my work. During covid, I re-discovered some opensource project and did some home NAS.

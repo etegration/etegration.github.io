@@ -13,10 +13,10 @@ baseurl: ''
 lang: en
 
 # Additional parameters for datetime localization, optional. › https://github.com/iamkun/dayjs/tree/dev/src/locale
-prefer_datetime_locale: Asia/Singapore
+prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone:Asia/Singapore
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -29,7 +29,7 @@ description: >-                        # used by seo meta and the atom feed
   Drone Flyer, Virtual Tour Creator, Father to C, C and C. Husband to C.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://etegration.github.io'
+url: 'https://www.etegration.com'
 
 github:
   username: etegration             # change to your github username
